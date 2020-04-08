@@ -1,2 +1,2 @@
-# levenshtein
-Implementation of Levenshtein distance for V language
+# v-levenshtein
+Implement of Levenshtein distance for V language
